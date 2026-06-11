@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hai, aku Lukman 👋</h1>
-  <p>🚀 Calon Frontend Engineer | 🎨 UI/UX, 🚀 Web Performance, <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /> React, 🟨 JavaScript, dan 🔍 Detail-oriented..</p>
+  <p>Calon Frontend Engineer</p>
 </div>
 
 ### 👨‍💻 Tentang Saya
