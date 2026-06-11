@@ -1,12 +1,16 @@
 <div align="center">
   <h1>Hai, aku Lukman 👋</h1>
-  <p>🚀 Calon Frontend Engineer | 🎨 UI/UX, 🚀 Web Performance, ⚛️ React, 🟨 JavaScript, dan 🔍 Detail-oriented..</p>
+  <p>🚀 Calon Frontend Engineer | 🎨 UI/UX, 🚀 Web Performance, <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /> React, 🟨 JavaScript, dan 🔍 Detail-oriented..</p>
 </div>
 
 ### 👨‍💻 Tentang Saya
 Halo, aku Lukmccn. Seorang pemula yang sedang mendalami web development, bercita-cita menjadi Frontend Engineer profesional. Aku sangat menyukai detail dan selalu berusaha membuat website yang tidak hanya menarik secara visual, tetapi juga nyaman digunakan dan memiliki performa cepat.
 
-Saat ini aku mendalami **HTML, CSS, JavaScript, dan React**, serta belajar prinsip **UI/UX** dan **web performance**. Aku sangat terbuka untuk berkolaborasi di proyek nyata yang mempertemukan desain dan teknologi.
+![UI/UX](https://img.shields.io/badge/Fokus-UI%2FUX-ff69b4?style=flat&logo=framer&logoColor=white)
+![Web Performance](https://img.shields.io/badge/Web-Performance-5c2d91?style=flat&logo=lighthouse&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Detail Oriented](https://img.shields.io/badge/Detail-Oriented-9cf?style=flat&logo=checkmarx&logoColor=white)
 <!--
 **lukmccn/lukmccn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
