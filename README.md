@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hai, aku Lukman 👋</h1>
+  <p>🚀 Calon Frontend Engineer | Frontend Engineer, UI/UX, web performance, React, JavaScript, detail-oriented.</p>
+</div>
 
+### 👨‍💻 Tentang Saya
+Halo, aku Lukmccn. Seorang pemula yang sedang mendalami web development, bercita-cita menjadi Frontend Engineer profesional. Aku sangat menyukai detail dan selalu berusaha membuat website yang tidak hanya menarik secara visual, tetapi juga nyaman digunakan dan memiliki performa cepat.
 <!--
 **lukmccn/lukmccn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
