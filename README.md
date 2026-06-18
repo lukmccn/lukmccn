@@ -4,7 +4,7 @@
 </div>
 
 ### 👨‍💻 Tentang Saya
-Halo, aku Lukmccn. Seorang pemula yang sedang mendalami web development, bercita-cita menjadi Frontend Engineer profesional. Aku sangat menyukai detail dan selalu berusaha membuat website yang tidak hanya menarik secara visual, tetapi juga nyaman digunakan dan memiliki performa cepat.
+Halo, aku Lukmccn. Seorang pemula yang sedang mendalami web development.
 
 ![UI/UX](https://img.shields.io/badge/Fokus-UI%2FUX-ff69b4?style=flat&logo=framer&logoColor=white)
 ![Web Performance](https://img.shields.io/badge/Web-Performance-5c2d91?style=flat&logo=lighthouse&logoColor=white)
